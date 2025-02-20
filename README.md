@@ -25,13 +25,13 @@ Usign this we can als do redis streams and use redis as cache. It depend upon us
 
 
 2 Dependency we need to use Redis - 
-1- <dependency>
+1- "<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-redis</artifactId>
 			<version>3.4.3</version>
-		</dependency>
-2- 	<dependency>
+		</dependency>"
+2- 	"<dependency>
 			<groupId>redis.clients</groupId>
 			<artifactId>jedis</artifactId>
 			<version>5.2.0</version>
-		</dependency>
+		</dependency>"
